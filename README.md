@@ -1,3 +1,1 @@
-#!/bin/bash
-pwd/n
-1-listit - Display the contents list of your current directory.
+This is the first readme of alx system engineering devops
